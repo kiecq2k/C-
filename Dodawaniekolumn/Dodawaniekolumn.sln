@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Dodawaniekolumn", "Dodawaniekolumn\Dodawaniekolumn.vcxproj", "{BD2C4CA7-DE43-4A8B-9CAC-40EC42583290}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD2C4CA7-DE43-4A8B-9CAC-40EC42583290}.Debug|x64.ActiveCfg = Debug|x64
+		{BD2C4CA7-DE43-4A8B-9CAC-40EC42583290}.Debug|x64.Build.0 = Debug|x64
+		{BD2C4CA7-DE43-4A8B-9CAC-40EC42583290}.Debug|x86.ActiveCfg = Debug|Win32
+		{BD2C4CA7-DE43-4A8B-9CAC-40EC42583290}.Debug|x86.Build.0 = Debug|Win32
+		{BD2C4CA7-DE43-4A8B-9CAC-40EC42583290}.Release|x64.ActiveCfg = Release|x64
+		{BD2C4CA7-DE43-4A8B-9CAC-40EC42583290}.Release|x64.Build.0 = Release|x64
+		{BD2C4CA7-DE43-4A8B-9CAC-40EC42583290}.Release|x86.ActiveCfg = Release|Win32
+		{BD2C4CA7-DE43-4A8B-9CAC-40EC42583290}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72A7A80F-D807-4A5D-A5AD-DDD94E93B03F}
+	EndGlobalSection
+EndGlobal
